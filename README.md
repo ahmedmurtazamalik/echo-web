@@ -1,5 +1,3 @@
----
-
 # Echo - Student Society Portal  
 
 ## Overview  
@@ -45,5 +43,3 @@ Contributions are welcome! Follow the Git workflow:
 - **Ahmed Murtaza Malik**  
 - **Hamza Ahmad Mir**  
 - **Ata Ur Rasool**  
-
----

@@ -1,5 +1,3 @@
-Here's your updated README with the names added:  
-
 ---
 
 # Echo - Student Society Portal  
@@ -49,5 +47,3 @@ Contributions are welcome! Follow the Git workflow:
 - **Ata Ur Rasool**  
 
 ---
-
-Let me know if you need any more changes! 🚀
